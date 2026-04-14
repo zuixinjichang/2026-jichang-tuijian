@@ -10,7 +10,7 @@
 
 ## 📢 近期公告
 
-> 新增主力机场：[快雷go](https://go.clashshome.com/kuaileigo)。IEPL专线为主，98% 节点可用率，支持 TikTok/Netflix/Disney+/ChatGPT 全流媒体解锁，近期上线电信方向优化，电信用户体验提升明显，速度确实很快很流畅。
+> 新增主力机场：[快雷go](https://go.clashshome.com/kuaileigo)。IEPL专线为主，98% 节点可用率，支持 TikTok/Netflix/Disney+/ChatGPT 全流媒体解锁，近期上线电信方向优化，电信用户体验提升明显，速度确实很快很流畅。综合体验最好的依旧是[红杏云](https://go.clashshome.com/hongxingyun)。
 
 ---
 
