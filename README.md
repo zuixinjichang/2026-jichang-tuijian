@@ -4,7 +4,7 @@
 > 2. 剔除劣质：已剔除所有 TG 群不回消息、口碑不稳的“跑路型”机场。仅保留响应快、出口带宽充足的优质服务商。  
 > 3. 2+1 策略：独家分享 2 个主力 + 1 个备用的不限时流量包组合方案。狡兔三窟，过去一年实现 0 断网记录，帮助你根据预算精准选择最合适的便宜稳定机场。  
 > 4. 优惠码：及时更新，部分有独家全场 8 折优惠码。  
-> 5. **最后更新**：2026-04-20 | 每周检查节点状态，随时更新最新动态。欢迎 Star 收藏防失联。[点击加入TG频道](https://t.me/best_jichang)
+> 5. **最后更新**：2026-04-22 | 每周检查节点状态，随时更新最新动态。欢迎 Star 收藏防失联。[点击加入TG频道](https://t.me/best_jichang)
 
 ---
 
@@ -116,7 +116,7 @@
 | 审计情况 | 无审计 |
 | 付款方式 | 支付宝 / 微信 / USDT |
 | TG 频道 | [点击加入](https://t.me/Hongxingyun_bot) |
-| 一键客户端 | Windows / Mac / Android / iOS / 软路由 推荐[官方旧的稳定版本客户端](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun) |
+| 一键客户端 | Windows / Mac / Android / iOS / 软路由 [官方旧的稳定版本客户端](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun) |
 
 **核心优势**：
 - ✅ 专线 + 多地家宽、原生IP，晚高峰稳定，客服工单回复速度快
@@ -125,7 +125,7 @@
 - ✅ 不限设备，全家共享无压力
 
 **缺点**：
-- 官方一键客户端的话看个人喜欢吧，最新的客户端里面多了专线。我还是用的他们有官方旧版本的，为了方便大家找到我放在我的[Releases](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun)里面，也挺好用。
+- 官方一键客户端的话看个人喜欢吧，最新的客户端里面多了专线，更新后也非常稳定。旧版本在[Releases](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun)里面，也挺好用。
 
 **我的使用体验**：从 2024 年底开始用，轻量套餐每天刷剧+办公完全够用。是一家价格实惠、生态完善的近乎全能的机场，适合大部分场景使用。
 
@@ -965,6 +965,7 @@ A: 按以下顺序排查：
 
 <span id="update"></span>
 ## 📌更新纪录
+- 2026-04-22：更新公告，[红杏云](#kuaileigo)客户端更新
 - 2026-04-19：更新[快雷go](#kuaileigo)价格信息
 - 2026-04-19：上传[红杏云](#kuaileigo)旧版本客户端，推荐旧的，新的客户端等官方优化好了再用，个人现在不推荐
 - 2026-04-17：新增 [SSRDOG](#ssrdog) 备用机场介绍
