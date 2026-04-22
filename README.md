@@ -94,7 +94,7 @@
 ---
 
 <span id="hongxingyun"></span>
-### 1. 红杏云 - 50多个节点（直连 + 家宽 + 原生 综合体验最好）
+### 1. 红杏云 - 50多个节点（直连 + 家宽 + 原生 综合体验最好，生态最全）
 
 **官网入口**：
 - [红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH)
