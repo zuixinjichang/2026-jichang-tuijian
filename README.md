@@ -97,7 +97,7 @@
 ### 1. 红杏云 - 直连 + 家宽 + 原生 综合体验最强
 
 **官网入口**：
-- [红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH)
+- [红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxing24.cc/web/#/login?code=bUIxQadH)
 
 **优惠码**：`ABING888`（全场 8 折，一个账户可用两次）
 
